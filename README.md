@@ -1,3 +1,3 @@
 # fblviewer
 fbl日志查看器
-- fblviewer cat <fileName>
+- fblviewer cat `fileName`
